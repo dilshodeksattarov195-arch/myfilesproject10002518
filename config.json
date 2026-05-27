@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingserify",
+        "uuid": 10895386,
+        "checksum": "m2rbno"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
